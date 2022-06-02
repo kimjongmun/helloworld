@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include "employeestruct.h"
 
@@ -35,4 +36,4 @@ int main()
 	cout << "Salary:$" << anEmployee.salary << endl;
 	return 0;
 
-}
+}*/
